@@ -19,7 +19,7 @@ My React App is a web application designed to track and visualize mood and sleep
 - **Chart.js**: Used for creating the scatter plot visualization.
 - **Vercel**: Deployment platform for hosting the application.
 
-## Deployment Section
+## Live Application
 - This project is deployed on Vercel. You can view the live application at
   ```markdown
   https://mental-health-journal.vercel.app/
