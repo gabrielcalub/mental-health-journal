@@ -1,4 +1,5 @@
-# My React App
+# Mindful Pages
+**Final Porject for Frontend Engineering**
 
 ## Description
 
@@ -17,3 +18,8 @@ My React App is a web application designed to track and visualize mood and sleep
 - **React**: Front-end library for building user interfaces.
 - **Chart.js**: Used for creating the scatter plot visualization.
 - **Vercel**: Deployment platform for hosting the application.
+
+### Changes Made
+- **Deployment Section**: Updated to include a placeholder for your web app domain.
+  ```markdown
+  This project is deployed on Vercel. You can view the live application at https://mental-health-journal.vercel.app/
